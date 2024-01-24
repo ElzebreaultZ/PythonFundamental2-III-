@@ -42,4 +42,3 @@ if jumlah_telur >5:
     else:
         print("anak tersebut tidak jadi membeli telur karena uang tidak cukup")
 print('Kemudian, anak tersebut pulang ')
-# Bisa juga diletakkan disini (bukan yang di indentasi) dengan comman print budi pulang - menyerahkan kepada ibu
