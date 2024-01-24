@@ -1,4 +1,5 @@
 """
+Bismillah
 Semua sintaksis dasar bahasa pemrograman terdiri dari:
 1. Sekuensial = Langkah berurutan
 2. Percabangan= Langkan melompat jika kondisi terpenuhi
