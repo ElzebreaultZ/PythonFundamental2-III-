@@ -15,7 +15,6 @@ while total_jumlah_baca < jumlah_buku * 2:
     else:
         jumlah_buku_yang_telah_dibaca_dan_dipahami = jumlah_buku_yang_telah_dibaca_dan_dipahami + 1
         print(f'Buku ke {jumlah_buku_yang_telah_dibaca_dan_dipahami} telah dibaca dan dipahami')
-#oke
 
 
 print(f'jumlah buku yang telah dibaca dan dipahami {jumlah_buku_yang_telah_dibaca_dan_dipahami}')
